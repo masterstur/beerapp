@@ -1,0 +1,7 @@
+db:
+ name: beerapp
+ username: beerapp
+ password: beerapp
+ host: localhost
+ port: 5432
+ dialect: postgres
